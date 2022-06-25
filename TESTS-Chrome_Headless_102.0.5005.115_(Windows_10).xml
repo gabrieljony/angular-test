@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 102.0.5005.115 (Windows 10)" package="" timestamp="2022-06-25T00:46:14" id="0" hostname="INOTE1146" tests="3" errors="0" failures="0" time="0.236">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/102.0.5005.115 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should have as title 'angular-test'" time="0.192" classname="Chrome_Headless_102_0_5005_115_(Windows_10).AppComponent"/>
+  <testcase name="AppComponent should create the app" time="0.021" classname="Chrome_Headless_102_0_5005_115_(Windows_10).AppComponent"/>
+  <testcase name="AppComponent should render title" time="0.023" classname="Chrome_Headless_102_0_5005_115_(Windows_10).AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
